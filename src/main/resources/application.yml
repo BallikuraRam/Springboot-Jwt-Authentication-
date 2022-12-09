@@ -1,0 +1,7 @@
+server:
+  port: 9192
+
+spring:
+  postgres:
+    console:
+      enabled: true
